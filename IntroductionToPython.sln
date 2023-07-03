@@ -7,6 +7,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FirstSeminar", "FirstSemina
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SecondSeminar", "SecondSeminar\SecondSeminar.pyproj", "{08115A5C-970C-4A14-8D73-AD9715C9E7B8}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ThirdSeminar", "ThirdSeminar\ThirdSeminar.pyproj", "{3D6C5373-5C6B-47D1-8235-1099A30E3544}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FourthSeminar", "FourthSeminar\FourthSeminar.pyproj", "{D07572AB-DB25-4F8E-9DD7-1E44B0EAADA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,10 @@ Global
 		{FD1F9404-EE7F-48A4-8542-80A99354BF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08115A5C-970C-4A14-8D73-AD9715C9E7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{08115A5C-970C-4A14-8D73-AD9715C9E7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6C5373-5C6B-47D1-8235-1099A30E3544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6C5373-5C6B-47D1-8235-1099A30E3544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07572AB-DB25-4F8E-9DD7-1E44B0EAADA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07572AB-DB25-4F8E-9DD7-1E44B0EAADA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
