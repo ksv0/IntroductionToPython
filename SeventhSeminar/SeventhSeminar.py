@@ -51,4 +51,5 @@ def PrintOperationTable(operation, numRows=6, numColumns=6):
 		print(row)
 		row = ''
 	
-PrintOperationTable(lambda x, y: x * y)
+PrintOperationTable(lambda x, y: x * y, 10, 10)
+#PrintOperationTable(lambda x, y: x + y)
