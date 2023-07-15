@@ -17,6 +17,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SixthSeminar", "SixthSemina
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SeventhSeminar", "SeventhSeminar\SeventhSeminar.pyproj", "{63263463-2A58-40C6-9DDA-4A94FF1A8451}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EightSeminar", "EightSeminar\EightSeminar.pyproj", "{1B039004-4D69-45CB-9A6F-25A68E0B90F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,8 @@ Global
 		{19D71E5E-3F0C-4D4B-A687-DDCE58C39389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63263463-2A58-40C6-9DDA-4A94FF1A8451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{63263463-2A58-40C6-9DDA-4A94FF1A8451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B039004-4D69-45CB-9A6F-25A68E0B90F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B039004-4D69-45CB-9A6F-25A68E0B90F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
